@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=namoo1818)](https://github.com/ryo-ma/github-profile-trophy)
-![namoo1818's github stats](https://github-readme-stats.vercel.app/api?username=namoo1818ID&show_icons=true)
+![namoo1818's github stats](https://github-readme-stats.vercel.app/api?username=namoo1818&show_icons=true)
 [![namoo1818's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=namoo1818&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/namoo1818)
 <!--
 **namoo1818/namoo1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
