@@ -1,8 +1,9 @@
-### Hi there 👋
-### I've been studying Data Analysis, Machine Learning and Deep Learning
+Hi there 👋
+I've been studying Data Analysis, Machine Learning and Deep Learning
 
 ### Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=namoo1818)](https://github.com/ryo-ma/github-profile-trophy)
 ![namoo1818's github stats](https://github-readme-stats.vercel.app/api?username=namoo1818&show_icons=true)
 [![namoo1818's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=namoo1818&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/namoo1818)
