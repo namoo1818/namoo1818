@@ -2,7 +2,7 @@ Hi there 👋
 I've been studying Data Analysis, Machine Learning and Deep Learning
 
 ### Tech Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white"/><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TenforFlow&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white"/><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=namoo1818)](https://github.com/ryo-ma/github-profile-trophy)
 ![namoo1818's github stats](https://github-readme-stats.vercel.app/api?username=namoo1818&show_icons=true)
