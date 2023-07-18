@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### I've been studying Data Analysis, Machine Learning and Deep Learning
-#### 중앙대학교 전자전기공학부 졸업 (2018.03~2022.02)
-#### KT Aivle School 2기 (2022.07.26~2023.01.19)
-#### SSAFY 10기 (2023.07.05~)
+#### 중앙대학교 전자전기공학부 졸업(2018.03~2022.02)
+#### KT Aivle School 2기 수료(2022.07.26~2023.01.19)
+#### SSAFY 10기(2023.07.05~)
 
 # Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white"/><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
