@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=F7CAC9&fontColor=92A8D1&fontAlignY=45&height=220&section=header&text=Minji%20Lee&fontSize=40)
+
 ### Hi there 👋
 ### I've been studying Data Analysis, Machine Learning and Deep Learning
 #### 중앙대학교 전자전기공학부 졸업(2018.03~2022.02)
