@@ -8,8 +8,6 @@
 - 2023.07 ~ 2024.06 삼성청년SW아카데미 10기
 - 2022.07 ~ 2023.01 KT Aivle School 2기 AI 개발자 Track
 - 2022.03 ~ 2022.07 서초 AI 칼리지
-- 2018.03 ~ 2022.02 중앙대학교 전기전자공학부 졸업
-- 2015.03 ~ 2018.02 세화여자고등학교 졸업
 
 ## PROJECT
 - [META SPACE - VR 우주선 탈출 게임](https://github.com/namoo1818/META-SPACE-VR)
