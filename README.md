@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F7CAC9&fontColor=92A8D1&fontAlignY=45&height=220&section=header&text=Minji%20Lee&fontSize=40)
 
-### 사용자를 위한 서비스를 만드는 프론트엔드/백엔드 개발자 이민지입니다. 
+### 사용자를 위한 서비스를 만드는 풀스택 개발자 이민지입니다. 
 ### [📄 Profolio](https://www.canva.com/design/DAGGBJkUmCY/sySKp9_lwy0PDQCQLtLbeQ/view?utm_content=DAGGBJkUmCY&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
 ## EDUCATION
-- 2024.08 ~ 메타버스 아카데미 자율전공
+- 2024.08 ~ 2024.12 메타버스 아카데미 자율전공
 - 2023.07 ~ 2024.06 삼성청년SW아카데미 10기
 - 2022.07 ~ 2023.01 KT Aivle School 2기 AI 개발자 Track
 - 2022.03 ~ 2022.07 서초 AI 칼리지
